@@ -71,4 +71,10 @@ javac ArrayList1.java
 java ArrayList1
 ```
 
+## 📚 Learning Journey
 
+This repository is part of my **Tri-Pillars Java learning journey**, where I am practicing Java concepts through small programs and gradually building a stronger foundation in programming and problem-solving.
+
+---
+
+⭐ **Learning Java one concept at a time!**
